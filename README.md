@@ -1,4 +1,4 @@
-# Lung-Perfusion-Analysis
+# Lung Perfusion Analysis
 This project focuses on the segmentation and quantification of lung perfusion in planar images (Anterior and Posterior projections). The goal is to develop an application that accurately identifies and extracts the perfusion regions from lung scans and computes statistical metrics.
 ## Objectives
 The objective is to implement a segmentation technique to extract lung perfusion regions. Processing both Anterior and Posterior projections, statistical features such as area, mean intensity, and standard deviation are computed.
